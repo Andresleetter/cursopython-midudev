@@ -57,5 +57,5 @@ print("4. El resultado debería ser 1\n")
 
 pi = 3.14
 print(round(pi))
-print(pi % 2)
-print(round(pi % 2)) 
+print(pi // 2)
+print(round(pi // 2))
